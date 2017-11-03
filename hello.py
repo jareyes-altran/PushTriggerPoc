@@ -1,1 +1,1 @@
-print("Hello_World !")
+print("Compilation succeed !")
