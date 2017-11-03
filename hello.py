@@ -1,1 +1,1 @@
-print("Compilation succeed !")
+prfdfsdfsdint("Compilation succeed !")
